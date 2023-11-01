@@ -11,7 +11,8 @@
 ###
 
 <p align="left">
-  ✨ Currently <strike>first</strike> <strike>second</strike> third year student at University of Engineering and Technology - Vietnam National University<br>
+  ✨ Currently <strike>first</strike> <strike>second</strike> third year student at 
+  University of Engineering and Technology - Vietnam National University <sub>(so old 👴)</sub><br>
   💻 I like playing video games and watching anime<br>
   🏆 My favourite game is Tetris and my favourite anime (and manga) is Machikado Mazoku
 </p>
@@ -23,6 +24,12 @@
 ###
 
 <div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" alt="c logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cpp/cpp-original.svg" height="40" alt="cpp logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
+  <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo"  />
