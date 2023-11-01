@@ -54,7 +54,7 @@
   <img width="12" />
   <img src="https://raw.githubusercontent.com/yurijserrano/Github-Profile-Readme-Logos/042e36c55d4d757621dedc4f03108213fbb57ec4/cloud/firebase.svg" height="40" alt="firebase logo"  />
   <img width="12" />
-  <img src="https://raw.githubusercontent.com/yurijserrano/Github-Profile-Readme-Logos/042e36c55d4d757621dedc4f03108213fbb57ec4/cloud/github.svg.svg" height="40" alt="github logo"  />
+  <img src="https://raw.githubusercontent.com/yurijserrano/Github-Profile-Readme-Logos/042e36c55d4d757621dedc4f03108213fbb57ec4/cloud/github.svg" height="40" alt="github logo"  />
 </div>
 
 ###
