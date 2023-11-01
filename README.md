@@ -1,8 +1,10 @@
+<br>
 <h1 align="center">Hey 👋 I'm Nguyen Viet Anh Khoa</h1>
 
 ###
 
 <p align="center">I'm just a guy who likes playing games and coding</p>
+<br>
 
 ###
 
@@ -12,10 +14,11 @@
 
 <p align="left">
   ✨ Currently <strike>first</strike> <strike>second</strike> third year student at 
-  University of Engineering and Technology - Vietnam National University <sub>(so old 👴)</sub><br>
-  💻 I like playing video games and watching anime<br>
-  🏆 My favourite game is Tetris and my favourite anime (and manga) is Machikado Mazoku
+  University of Engineering and Technology - Vietnam National University <sub>(so old 👴).</sub><br>
+  🏆 I like playing video games. My favourite game is probably Tetris.<br>
+  💻 I also enjoy watching anime or reading manga, light novel occasionally. My favourite series is currently Machikado Mazoku.
 </p>
+<br>
 
 ###
 
@@ -56,5 +59,11 @@
   <img width="12" />
   <img src="https://raw.githubusercontent.com/yurijserrano/Github-Profile-Readme-Logos/042e36c55d4d757621dedc4f03108213fbb57ec4/cloud/github.svg" height="40" alt="github logo"  />
 </div>
+<br>
 
 ###
+
+<h2 align="left">
+  📝 Keep calm, have fun, and always remember:<br>
+  💡 It's not a bug, it's just an undocumented feature
+</h2>
