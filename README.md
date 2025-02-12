@@ -3,7 +3,7 @@
 
 ###
 
-<p align="center">I'm just a guy who likes playing games and coding</p>
+<p align="center">I'm just a guy who enjoys playing games and coding</p>
 <br>
 
 ###
@@ -13,7 +13,7 @@
 ###
 
 <p align="left">
-  ✨ Currently <strike>first</strike> <strike>second</strike> third year student at 
+  ✨ Currently <strike>1st</strike> <strike>2nd</strike> <strike>3rd</strike> 4th year student at 
   University of Engineering and Technology - Vietnam National University <sub>(so old 👴).</sub><br>
   🏆 I like playing video games. My favourite game is probably Tetris.<br>
   💻 I also enjoy watching anime or reading manga, light novel occasionally. My favourite series is currently Machikado Mazoku.
